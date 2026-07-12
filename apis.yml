@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://m3o.com/db
 common:
+  - type: DomainSecurity
+    url: security/micro-db-domain-security.yml
   - type: Website
     url: https://m3o.com/db
   - type: PublicAPIsListing
