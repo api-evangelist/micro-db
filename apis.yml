@@ -39,7 +39,6 @@ apis:
   - name: Micro DB
     description: "Simple database service"
     humanURL: https://m3o.com/db
-    baseURL: https://m3o.com/db
     tags:
       - Development
     properties:
